@@ -5,9 +5,7 @@
   Bienvenue dans l'outil ultime de picking pour les super-héros du quotidien chez ALDI. Fini le papier, le crayon qui casse et la connexion Wi-Fi qui vous lâche au
   milieu de l'allée 4. Cette application transforme votre smartphone en un scanner de compétition, même si vous êtes enterré au fond de la réserve !
 
-  !Status Badge (https://img.shields.io/badge/Status-Turbo--Chargé-blue)
-  !Offline Badge (https://img.shields.io/badge/Mode--Offline-Activé-success)
-  !Symfony Badge (https://img.shields.io/badge/Backend-Symfony-blueviolet)
+  [Regarder la vidéo]([https://www.example.com/video.mp4](https://github.com/Lud972vic/Mobile-Inventaire-Picking/blob/main/Demo.mp4))
 
   ---
 
@@ -49,7 +47,7 @@
 
    1. Cloner le dépôt :
 
-   1     git clone https://github.com/Lud972vic/MobileInventairePicking.git
+   1     git clone : bientôt
    2. Installer les dépendances PHP :
    1     composer install
    3. Préparer la base de données :
@@ -89,5 +87,3 @@
   moins l'app). Faites attention !
 
   ---
-
-  Appuyez sur F pour payer le respect aux inventaires manuels disparus. 🕯️
