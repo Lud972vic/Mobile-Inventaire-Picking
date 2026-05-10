@@ -5,7 +5,13 @@
   Bienvenue dans l'outil ultime de picking pour les super-héros du quotidien chez ALDI. Fini le papier, le crayon qui casse et la connexion Wi-Fi qui vous lâche au
   milieu de l'allée 4. Cette application transforme votre smartphone en un scanner de compétition, même si vous êtes enterré au fond de la réserve !
 
-  [Regarder la vidéo]([https://www.example.com/video.mp4](https://github.com/Lud972vic/Mobile-Inventaire-Picking/blob/main/Demo.mp4))
+  [Regarder la vidéo](https://github.com/Lud972vic/Mobile-Inventaire-Picking/blob/main/Demo.mp4)
+
+
+  <video width="480" height="270" controls>
+  <source src="Demo.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la lecture vidéo.
+  </video>
 
   ---
 
