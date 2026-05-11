@@ -4,9 +4,15 @@
 
   Bienvenue dans l'outil ultime de picking pour les super-héros du quotidien chez ALDI. Fini le papier, le crayon qui casse et la connexion Wi-Fi qui vous lâche au
   milieu de l'allée 4. Cette application transforme votre smartphone en un scanner de compétition, même si vous êtes enterré au fond de la réserve !
-
-  Regarder la vidéo : Demo.mp4
   
+<table>
+      <tr>
+        <td><img width="150" alt="Capture d’écran 1" src="https://github.com/user-attachments/assets/abe186ae-818b-4488-b1cc-f90bdba33883" /></td>
+        <td><img width="150" alt="Capture d’écran 2" src="https://github.com/user-attachments/assets/dc3ecef2-33d1-44ad-a4a0-ffd7a4c3280f" /></td>
+        <td><img width="150" alt="Capture d’écran 3" src="https://github.com/user-attachments/assets/20209eea-7b69-47b1-bff6-d90764fec05a" /></td>
+      </tr>
+</table>
+
   ---
 
   🤔 Pourquoi ce projet ?
@@ -47,7 +53,7 @@
 
    1. Cloner le dépôt :
 
-   1     git clone : bientôt
+   1     git clone https://github.com/Lud972vic/Aldi---Mobile-inventaire-picking
    2. Installer les dépendances PHP :
    1     composer install
    3. Préparer la base de données :
@@ -85,5 +91,3 @@
 
   > Note technique : Ce projet utilise une architecture refactorisée où le JS et le CSS sont centralisés. Si vous modifiez shared.js, vous changez le monde (ou au
   moins l'app). Faites attention !
-
-  ---
