@@ -63,7 +63,7 @@
 
    1. Cloner le dépôt :
 
-   1     git clone https://github.com/Lud972vic/Aldi---Mobile-inventaire-picking
+   1     git clone (privé) https://github.com/Lud972vic/Aldi---Mobile-inventaire-picking
    2. Installer les dépendances PHP :
    1     composer install
    3. Préparer la base de données :
