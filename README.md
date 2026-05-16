@@ -61,19 +61,19 @@
 
   ⚙️ Installation (Pour les courageux)
 
-   1. Cloner le dépôt :
+   0. Cloner le dépôt :
 
-   1     git clone (privé) https://github.com/Lud972vic/Aldi---Mobile-inventaire-picking
+   1.     git clone (privé) https://github.com/Lud972vic/Aldi---Mobile-inventaire-picking
    2. Installer les dépendances PHP :
-   1     composer install
-   3. Préparer la base de données :
+   3.     composer install
+   4. Préparer la base de données :
 
-   1     php bin/console doctrine:database:create
-   2     php bin/console doctrine:schema:update --force
-   4. Lancer le serveur :
+   5.     php bin/console doctrine:database:create
+   6.     php bin/console doctrine:schema:update --force
+   7. Lancer le serveur :
 
-   1     symfony serve
-   5. C'est prêt ! Rendez-vous sur localhost:8000 et commencez à scanner tout ce qui bouge (ou pas).
+   8.     symfony serve
+   9. C'est prêt ! Rendez-vous sur localhost:8000 et commencez à scanner tout ce qui bouge (ou pas).
 
   ---
 
